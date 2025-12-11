@@ -2,15 +2,17 @@
     text-align: center;
 }
 
-.uulia.jpg {
+.uulia {
     width: 100px;
     display: block;
     margin: 10px auto;
     border-radius: 10px;
 }
 
+}
+
 body {
-background-image:url("black.jpg");
+background-image:url("static/black.jpg");
 background-repeat:no-repeat;
 background-size:cover;
 font-family:"Dancing Script",cursive;
